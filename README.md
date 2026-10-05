@@ -1,24 +1,24 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/AES-Outreach/Summer-2024-Coop-Interviews">
+  <a href="https://github.com/AES-Outreach/2026-Intermediate-Web-Developer-Interviews">
     <img src="outstem_logo_icon.svg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">OutStem Fall 2026 Intermediate Web Developer Coding Challenge</h3>
+  <h3 align="center">Web Developer Coding Challenge</h3>
 
   <p align="center">
-    Welcome to the OutStem coding interview.
+    Welcome to the Web Developer coding interview.
   </p>
 </p>
 
-# OutStem Coding Challenge
+# Web Developer Coding Challenge
 
-Welcome to the OutStem Coding challenge. Submission instructions are listed below. The deadline to submit this challenge is **Monday January 22nd, 9:00 AM**. We would like to emphasize that we are looking for effort, and that the challenge is just part of our discussion with you during the interview, so don’t worry if your solution is *hacky* or even if it doesn’t work, we want to see it!
+Welcome to the Web Developer Coding challenge. Submission instructions are listed below. The deadline to submit this challenge is **Tuesday October 13th, 4:00 PM**. We would like to emphasize that we are looking for effort, and that the challenge is just part of our discussion with you during the interview, so don’t worry if your solution is *hacky* or even if it doesn’t work, we want to see it!
 
 ## The Challenge
 
-The challenge for this interview is to build a dashboard for the new pizza place, "A Slice of Pi". They have just finished their first year of business (2023), and want to see how their pizza sales have performed.
+The challenge for this interview is to build a dashboard for the new pizza place, "A Slice of Pi". They have just finished their first year of business (2026), and want to see how their pizza sales have performed.
 
 For this challenge you have been provided 3 data sets, [order_data.json](data-sets/order_data.json), [review_data.json](data-sets/review_data.json), and [pricing_data.json](data-sets/pricing_data.json). You will use the data in these files to generate various graphs as described in the Goals section below
 
@@ -82,7 +82,7 @@ This challenge has multiple goals that increase in level of difficulty, implemen
 
 
 ### Goal 1
-Show a simple pie chart of the customer reviews, showing how many reviews of each sentiment (happy, sad, etc) A Slice of Pi received in 2023
+Show a simple pie chart of the customer reviews, showing how many reviews of each sentiment (happy, sad, etc) A Slice of Pi received in 2026
 
 
 ### Goal 2
@@ -90,11 +90,11 @@ Add a simple bar chart showing how many orders were placed in each store (Kanata
 
 
 ### Goal 3
-Add a display of the total money made in 2023 by computing the price of each pizza sold and adding them all.
+Add a display of the total money made in 2026 by computing the price of each pizza sold and adding them all.
 
 
 ### Goal 4
-Create a line chart showing how much money was made per month in 2023
+Create a line chart showing how much money was made per month in 2026
 
 ### Goal 5
 To your chart from Goal 2, add the ability to filter the data by
@@ -134,9 +134,9 @@ You will be evaluated on:
 
 ## Submission
 
-Please submit your solution in the 2024 Summer interview GitHub repository via GitHub Issue.
+Please submit your solution in the Web Developer GitHub repository via GitHub Issue.
 
-1. Navigate to the following link (https://github.com/AES-Outreach/Summer-2024-Coop-Interviews/issues/new/choose) or:
+1. Navigate to the following link (https://github.com/AES-Outreach/2026-Intermediate-Web-Developer-Interviews/issues/new/choose) or:
    1. Navigate to the challenge repository
    2. Click **Issues**
    3. Click **New Issue**
@@ -146,7 +146,4 @@ Please submit your solution in the 2024 Summer interview GitHub repository via G
 5. Click **Submit New Issue**
 6. Done! Thank you for completing the challenge, we look forward to discussing your solution with you during the interview. 🎉
 
-If you have any questions, you can email Ivana Erlich at ierlich@uottawa.ca
-
-
-
+If you have any questions, you can email Ronald Monette rmonette@uottawa.ca.
