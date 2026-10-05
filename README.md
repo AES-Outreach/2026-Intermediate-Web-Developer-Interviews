@@ -5,7 +5,7 @@
     <img src="outstem_logo_icon.svg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">OutStem Summer 2024 Coding Challenge</h3>
+  <h3 align="center">OutStem Fall 2026 Intermediate Web Developer Coding Challenge</h3>
 
   <p align="center">
     Welcome to the OutStem coding interview.
