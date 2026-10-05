@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/AES-Outreach/2026-Intermediate-Web-Developer-Interviews">
-    <img src="outstem_logo_icon.svg" alt="Logo" width="80" height="80">
+    <img src="logo_icon.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Web Developer Coding Challenge</h3>
